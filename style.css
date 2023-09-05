@@ -1,0 +1,71 @@
+.box1{
+    position: absolute;
+    /* background-color: rgb(193, 31, 42); */
+    height: 50rem;
+    width: 50rem;
+    margin-left: 20rem;
+}
+button{
+    height: 2.5rem;
+    width: 6rem;
+    margin-left: 0rem;
+    font-size: 14px;
+    background-color: aqua;
+}
+
+.button1{
+    height: 2rem;
+    width: 7rem;
+}
+
+.button2{
+    height: 2rem;
+    width: 8rem;
+}
+
+
+.image1{
+    position: relative;
+    margin-top: 0rem;
+    margin-left: -18rem;
+}
+
+.polution{
+    font-size: 3rem;
+    margin-left: 4rem;
+}
+
+.image2{
+    position: absolute;
+    margin-left: 30rem;
+    margin-top: -20.5rem;
+}
+
+.india{
+    font-size: 3rem;
+    margin-left: 4rem;
+}
+
+.image3{
+    position: absolute;
+    margin-left: 7rem;
+    margin-top: 0rem;
+}
+
+.food{
+    font-size: 3rem;
+    margin-left: 4rem;
+}
+.button3{
+    width: 8rem;
+}
+.image4{
+    position: absolute;
+    margin-left: 48rem;
+    margin-top: 0rem;
+}
+.sports{
+    font-size: 3rem;
+    margin-left: 4rem;
+}
+
